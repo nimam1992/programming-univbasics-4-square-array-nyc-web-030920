@@ -3,7 +3,7 @@ def square_array(array)
   list = []
   while i < array.length do
     list.push(array[i]*array[i])
-    i++
+    i+=1
   end
   return puts list
 end
