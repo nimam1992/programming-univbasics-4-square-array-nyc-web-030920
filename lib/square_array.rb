@@ -7,3 +7,7 @@ def square_array(array)
   end
   return list
 end
+
+array = [1,2,3]
+
+square_array(array)
