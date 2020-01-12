@@ -5,7 +5,7 @@ def square_array(array)
     list.push(array[i]*array[i])
     i=i+1
   end
-  return list
+  return puts list
 end
 
 array = [1,2,3]
